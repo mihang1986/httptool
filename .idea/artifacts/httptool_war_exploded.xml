@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="httptool:war exploded">
+    <output-path>$PROJECT_DIR$/target/httptool-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="httptool" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:\program\IdeaProjects\httptool\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="httptool/web/Web" />
+    </root>
+  </artifact>
+</component>

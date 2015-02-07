@@ -1,0 +1,11 @@
+#  Global #
+*.class
+*.jar
+*.war
+*.ear
+
+# httptool [eclipse / intellij] #
+.project
+.settings
+.classpath
+target
